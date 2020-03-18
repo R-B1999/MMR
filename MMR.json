@@ -56,8 +56,8 @@
 	{
 		"Name": "Age",
 		"id": 10,
-		"Url": "https://raw.githubusercontent.com/R-B1999/MMR/master/age.png",
-		"icon": ""
+		"Url": "",
+		"icon": "https://raw.githubusercontent.com/R-B1999/MMR/master/age.png"
 	},
 	{
 		"Name": "Clocks",
