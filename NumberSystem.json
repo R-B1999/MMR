@@ -17,9 +17,6 @@
 		"O3":"13",
 		"O4":"14",
 		"Ans":"12",
-		"Solution":"According to the formula, Nth term of the G.P is represented as Tn = a x rn-1
-Then 3 x 3n-1 = 531441
-? 3n = 312
-? n = 12"
+		"Solution":"According to the formula, Nth term of the G.P is represented as Tn = a x rn-1 Then 3 x 3n-1 = 531441 ? 3n = 312 ? n = 12"
 	}
 ]
