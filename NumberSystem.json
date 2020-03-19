@@ -18,5 +18,85 @@
 		"O4":"14",
 		"Ans":"12",
 		"Solution":"According to the formula, Nth term of the G.P is represented as Tn = a x rn-1 Then 3 x 3n-1 = 531441 ? 3n = 312 ? n = 12"
+	},
+	{
+		"Que": "If the average of four consecutive odd numbers is 12, find the smallest of these numbers?",
+		"QNo": 3,
+		"O1": "5",
+		"O2": "7",
+		"O3":"9",
+		"O4":"11",
+		"Ans":"9",
+		"Solution":""
+	},
+	{
+		"Que": "If the sum of two numbers is 13 and the sum of their square is 85. Find the numbers?",
+		"QNo": 4,
+		"O1": "6 & 7",
+		"O2": "5 & 8",
+		"O3":"4 & 9",
+		"O4":"3 & 10",
+		"Ans":"6 & 7",
+		"Solution":""
+	},
+	{
+		"Que": "The difference between a two-digit number and the number obtained by interchanging the positions of its digits is 45. What is the difference between the two digits of that number?",
+		"QNo": 5,
+		"O1": "5",
+		"O2": "7",
+		"O3":"6",
+		"O4":"None of these",
+		"Ans":"5",
+		"Solution":""
+	},
+	{
+		"Que": "A two-digit number is such that the product of the digits is 12. When 9 is subtracted from the number, the digits are reversed. The number is:",
+		"QNo": 6,
+		"O1": "34",
+		"O2": "62",
+		"O3":"43",
+		"O4":"26",
+		"Ans":"43",
+		"Solution":""
+	},
+	{
+		"Que": "Find a positive number which when increased by 16 is equal to 80 times the reciprocal of the number",
+		"QNo": 7,
+		"O1": "20",
+		"O2": "-4",
+		"O3":"-10",
+		"O4":"4",
+		"Ans":"4",
+		"Solution":""
+	},
+	{
+		"Que": "What is the sum of two consecutive odd numbers, the difference of whose squares is 56?",
+		"QNo": 8,
+		"O1": "30",
+		"O2": "28",
+		"O3":"32",
+		"O4":"34",
+		"Ans":"28",
+		"Solution":""
+	},
+	{
+		"Que": "The product of two numbers is 108 and the sum of their squares is 225. The difference of the number is:",
+		"QNo": 9,
+		"O1": "5",
+		"O2": "4",
+		"O3":"3",
+		"O4":"None of these",
+		"Ans":"3",
+		"Solution":""
+	},
+	{
+		"Que": "The average of 21 results is 20. Average of 1st 10 of them is 24 that of last 10 is 14. the result of 11'th is :",
+		"QNo": 10,
+		"O1": "42",
+		"O2": "44",
+		"O3":"46",
+		"O4":"40",
+		"Ans":"40",
+		"Solution":""
 	}
 ]
