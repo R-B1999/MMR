@@ -1,0 +1,102 @@
+[
+	{
+		"Que": "Two friends A and B were employed to do a work. Initial deadline was fixed at 24 days. Both started working together but after 20 days, A left the work and the whole work took 30 days to complete. In how much time can B alone can do the work?",
+		"QNo": 1,
+		"O1": "40",
+		"O2": "50",
+		"O3":"60",
+		"O4":"70",
+		"Ans":"60",
+		"Solution":""
+	},
+	{
+		"Que": "A and B took a job to be completed in 20 days. They started working together and after 12 days, C joined them and the whole job finished in 15 days. How much time would C require to complete the job if only C was hired?",
+		"QNo": 2,
+		"O1": "15",
+		"O2": "12",
+		"O3":"10",
+		"O4":"8",
+		"Ans":"12",
+		"Solution":""
+	},
+	{
+		"Que": "Three people A, B and C working individually can finish a job in 10, 12 and 20 days respectively. They decided to work together but after 2 days, A left the work and after another one day, B also left work. If they got two lacs collectively for the entire work, find the difference of the highest and lowest share.",
+		"QNo": 3,
+		"O1": "70000",
+		"O2": "60000",
+		"O3":"10000",
+		"O4":"20000",
+		"Ans":"70000",
+		"Solution":""
+	},
+	{
+		"Que": "A alone and B alone can do a work in respectively 18 and 8 days more than both working together. Find the number of days required if both work together.",
+		"QNo": 4,
+		"O1": "12",
+		"O2": "8",
+		"O3":"16",
+		"O4":"36",
+		"Ans":"12",
+		"Solution":""
+	},
+	{
+		"Que": "Three friends A, B and C are employed to make pastries in a bakery. Working individually, they can make 60, 30 and 40 pastries respectively in an hour. They decided to work together but due to lack of resources, they had to work on shifts of 30 minutes. Find the time taken to make 185 pastries.",
+		"QNo": 5,
+		"O1": "4 hours",
+		"O2": "3 hours 45 minutes",
+		"O3":"4 hours 15 minutes",
+		"O4":"5 hours",
+		"Ans":"4 hours 15 minutes",
+		"Solution":""
+	},
+	{
+		"Que": "A person employed a group of 20 men for a construction job. These 20 men working 8 hours a day can complete the job in 28 days. The work started on time but after 18 days, it was observed that two thirds of the work was still pending. To avoid penalty and complete the work on time, the employer had to employ more men and also increase the working hours to 9 hours a day. Find the additional number of men employed if the efficiency of all men is same.",
+		"QNo": 6,
+		"O1": "40",
+		"O2": "44",
+		"O3":"64",
+		"O4":"80",
+		"Ans":"44",
+		"Solution":""
+	},
+	{
+		"Que": "6 men and 10 women were employed to make a road 360 km long. They were able to make 150 kilometres of road in 15 days by working 6 hours a day. After 15 days, two more men were employed and four women were removed. Also, the working hours were increased to 7 hours a day. If the daily working power of 2 men and 3 women are equal, find the total number of days required to complete the work.",
+		"QNo": 7,
+		"O1": "19",
+		"O2": "35",
+		"O3":"34",
+		"O4":"50",
+		"Ans":"34",
+		"Solution":""
+	},
+	{
+		"Que": "A stadium was to be built in 1500 days. The contractor employed 200 men, 300 women and 750 robotic machines. After 600 days, 75% of the work was still to be done. Fearing delay, the contractor removed all women and 500 robotic machines. Also, he employed some more men having the same efficiency as earlier employed men. This led to a speedup in work and the stadium got built 50 days in advance. Find the additional number of men employed if in one day, six men, ten women and fifteen robotic machines have same work output.",
+		"QNo": 8,
+		"O1": "1100",
+		"O2": "1340",
+		"O3":"1300",
+		"O4":"1140",
+		"Ans":"1140",
+		"Solution":""
+	},
+	{
+		"Que": "3 men and 4 women can complete a work in 10 days by working 12 hours a day. 13 men and 24 women can do the same work by working same hours a day in 2 days. How much time would 12 men and 1 women working same hours a day will take to complete the whole work?",
+		"QNo": 9,
+		"O1": "4",
+		"O2": "6",
+		"O3":"8",
+		"O4":"10",
+		"Ans":"4",
+		"Solution":""
+	},
+	{
+		"Que": "600 men can make a road in 500 days. They start working together but after every hundred days, 50 men leave the work. Find the total time (in days) it takes to make the road.",
+		"QNo": 10,
+		"O1": "600",
+		"O2": "550",
+		"O3":"650",
+		"O4":"750",
+		"Ans":"650",
+		"Solution":""
+	}
+]
