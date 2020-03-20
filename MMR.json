@@ -8,61 +8,61 @@
 	{
 		"Name": "Work and Wages",
 		"id": 2,
-		"Url": "",
+		"Url": "https://raw.githubusercontent.com/R-B1999/MMR/master/WaW.json",
 		"icon": ""
 	},
 	{
 		"Name": "Pipes and Cisterns",
 		"id": 3,
-		"Url": "",
+		"Url": "https://raw.githubusercontent.com/R-B1999/MMR/master/PaC.json",
 		"icon": ""
 	},
 	{
 		"Name": "Time Speed Distance",
 		"id": 4,
-		"Url": "",
+		"Url": "https://raw.githubusercontent.com/R-B1999/MMR/master/TSD.json",
 		"icon": ""
 	},
 	{
 		"Name": "Trains, Boats and Streams",
 		"id": 5,
-		"Url": "",
+		"Url": "https://raw.githubusercontent.com/R-B1999/MMR/master/TBS.json",
 		"icon": ""
 	},
 	{
 		"Name": "Percentages",
 		"id": 6,
-		"Url": "",
+		"Url": "https://raw.githubusercontent.com/R-B1999/MMR/master/Per.json",
 		"icon": ""
 	},
 	{
 		"Name": "Ratio Proportion and Partnership",
 		"id": 7,
-		"Url": "",
+		"Url": "https://raw.githubusercontent.com/R-B1999/MMR/master/RPP.json",
 		"icon": ""
 	},
 	{
 		"Name": "Profit and Loss",
 		"id": 8,
-		"Url": "",
+		"Url": "https://raw.githubusercontent.com/R-B1999/MMR/master/PaL.json",
 		"icon": ""
 	},
 	{
 		"Name": "Average",
 		"id": 9,
-		"Url": "",
+		"Url": "https://raw.githubusercontent.com/R-B1999/MMR/master/Avg.json",
 		"icon": ""
 	},
 	{
 		"Name": "Age",
 		"id": 10,
-		"Url": "",
+		"Url": "https://raw.githubusercontent.com/R-B1999/MMR/master/Age.json",
 		"icon": ""
 	},
 	{
 		"Name": "Clocks",
 		"id": 11,
-		"Url": "",
+		"Url": "https://raw.githubusercontent.com/R-B1999/MMR/master/Clock.json",
 		"icon": ""
 	}
 ]
