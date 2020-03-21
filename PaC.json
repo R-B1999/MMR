@@ -1,0 +1,152 @@
+[
+	{
+		"Que" : "Two outlet pipes A and B are connected to a full tank. Pipe A alone can empty the tank in 10 minutes and pipe B alone can empty the tank in 30 minutes. If both are opened together, how much time will it take to empty the tank completely?",
+		"QNo" : 1,
+		"O1" : "7 minutes",
+		"O2" : "7 minutes 30 seconds",
+		"O3" : "6 minutes",
+		"O4" : "6 minutes 3 seconds",
+		"Ans" : "7 minutes 30 seconds",
+		"Solution" : ""
+	},
+	{
+		"Que" : "Two pipes A and B attached to a swimming pool can fill the pool in 20 minutes and 30 minutes respectively working alone. Both were opened together but due to malfunctioning of motor of pipe A, it had to be shut down after two minutes but B continued to work till the swimming pool was filled completely. Find the total time taken to fill the pool.",
+		"QNo" : 2,
+		"O1" : "20",
+		"O2" : "22",
+		"O3" : "25",
+		"O4" : "27",
+		"Ans" : "27",
+		"Solution" : ""
+	},
+	{
+		"Que" : "Three pipes A, B and C were opened to fill a cistern. Working alone, A, B and C require 12, 15 and 20 minutes respectively.After 4 minutes of working together, A got blocked and after another 1 minute, B also got blocked. C continued to work till the end and the cistern got completely filled. What is the total time taken to fill the cistern ?",
+		"QNo" : 3,
+		"O1" : "6 minutes",
+		"O2" : "6 minutes 15 seconds",
+		"O3" : "6 minutes 40 seconds",
+		"O4" : "6 minutes 50 seconds",
+		"Ans" : "6 minutes 40 seconds",
+		"Solution" : ""
+	},
+	{
+		"Que" : "Three pipes A, B and C are connected to a tank. Working alone, they require 10 hours, 20 hours and 30 hours respectively. After some time, A is closed and after another 2 hours, B is also closed. C works for another 14 hours so that the tank gets filled completely. Find the time (in hours) after which pipe A was closed.",
+		"QNo" : 4,
+		"O1" : "1",
+		"O2" : "1.5",
+		"O3" : "2",
+		"O4" : "3",
+		"Ans" : "2",
+		"Solution" : ""
+	},
+	{
+		"Que" : "Working alone, two pipes A and B require 9 hours and 6.25 hours more respectively to fill a pool than if they were working together. Find the total time taken to fill the pool if both were working together.",
+		"QNo" : 5,
+		"O1" : "6",
+		"O2" : "6.5",
+		"O3" : "7",
+		"O4" : "7.5",
+		"Ans" : "7.5",
+		"Solution" : ""
+	},
+	{
+		"Que" : "Three pipes A, B and C were opened to fill a cistern. Working alone, A, B and C require 12, 15 and 20 minutes respectively. Another pipe D, which is a waste pipe, can empty the filled tank in 30 minutes working alone. What is the total time (in minutes) taken to fill the cistern if all the pipes are simultaneously opened ?",
+		"QNo" : 6,
+		"O1" : "5",
+		"O2" : "6",
+		"O3" : "7",
+		"O4" : "8",
+		"Ans" : "6",
+		"Solution" : ""
+	},
+	{
+		"Que": "Three pipes A, B and C were opened to fill a tank. Working alone, A, B and C require 10, 15 and 20 hours respectively. A was opened at 7 AM, B at 8 AM and C at 9 AM. At what time the tank would be completely filled, given that pipe C can only work for 3 hours at a stretch, and needs 1 hour standing time to work again.",
+		"QNo": 7,
+		"O1": "12 : 00 PM",
+		"O2": "12 : 30 PM",
+		"O3":"1 : 30 PM",
+		"O4":"1 : 00 PM",
+		"Ans":"12 : 30 PM",
+		"Solution":""
+	},
+	{
+		"Que" : "Two pipes A and B can fill a tank in 10 hours and 30 hours respectively. Due to a leak in the tank, it takes 2.5 hours more to fill the tank. How much time would the leak alone will take to empty the tank ?",
+		"QNo" : 8,
+		"O1" : "20 hours",
+		"O2" : "25 hours",
+		"O3" : "30 hours",
+		"O4" : "35 hours",
+		"Ans" : "30 hours",
+		"Solution" : ""
+	},
+	{
+		"Que" : "Two pipes A and B work alternatively with a third pipe C to fill a swimming pool. Working alone, A, B and C require 10, 20 and 15 hours respectively. Find the total time required to fill the pool.",
+		"QNo" : 9,
+		"O1" : "7 hours 14 minutes",
+		"O2" : "6 hours 54 minutes",
+		"O3" : "5 hours 14 minutes",
+		"O4" : "8 hours 54 minutes",
+		"Ans" : "6 hours 54 minutes",
+		"Solution" : ""
+	},
+	{
+		"Que" : "Two pipes A and B are connected to drain out a water tank. A alone can drain out the tank in 20 hours and B can drain 20 liters per hour. Find the capacity of the water tank given that working together, they require 12 hours to completely drain out the tank.",
+		"QNo" : 10,
+		"O1" : "600",
+		"O2" : "400",
+		"O3" : "800",
+		"O4" : "700",
+		"Ans" : "600",
+		"Solution" : ""
+	},
+	{
+		"Que" : "Two friends A and B decided to work together and fill a pool of capacity 1000 liters. Using a bucket each, A fills at the rate of 4 liters every 3 minutes and B fills at 3 liters every 4 minute. What would be the total time required to fill the pool, given that they take a break of 3 minutes each time both of them put a bucket into the pool at the same instant ?",
+		"QNo" : 11,
+		"O1" : "6 hours",
+		"O2" : "10 hours",
+		"O3" : "8 hours",
+		"O4" : "9 hours 57 minutes",
+		"Ans" : "9 hours 57 minutes",
+		"Solution" : ""
+	},
+	{
+		"Que" : "Two taps A and B can fill a tank in 10 hours and 15 hours respectively. If both the taps are opened together, the tank will be full in ?",
+		"QNo" : 12,
+		"O1" : "5 hr",
+		"O2" : "6 hr",
+		"O3" : "4 hr",
+		"O4" : "3 hr",
+		"Ans" : "6 hr",
+		"Solution" : ""
+	},
+	{
+		"Que" : "To fill a cistern, pipes A, B and C take 20 minutes, 15 minute and 12 minutes respectively. The time in minutes that the three pipes together will take to fill the cistern is:",
+		"QNo" : 13,
+		"O1" : "5 min",
+		"O2" : "7 min",
+		"O3" : "4 min",
+		"O4" : "6 min",
+		"Ans" : "5 min",
+		"Solution" : ""
+	},
+	{
+		"Que" : "Two pipes can fill a tank in 10 hours and 12 hours resp. while third pipe empties the full tank in 20 hours. If all the three pipes operate simultaneously, in how much time the tank will be filled?",
+		"QNo" : 14,
+		"O1" : "7 hr. 30 min",
+		"O2" : "7 hr. 25 min",
+		"O3" : "7 hr. 40 min",
+		"O4" : "7 hr. 50 min",
+		"Ans" : "7 hr. 30 min",
+		"Solution" : ""
+	},
+	{
+		"Que" : "A cistern can be filled in 9 hours but it takes 10 hours due to a leak in its bottom. If the cistern is full, then the time that the leak will take to empty it is:",
+		"QNo" : 15,
+		"O1" : "60 hr",
+		"O2" : "50 hr",
+		"O3" : "80 hr",
+		"O4" : "90 hr",
+		"Ans" : "90 hr",
+		"Solution" : ""
+	}
+]
