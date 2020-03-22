@@ -9,13 +9,13 @@
 		"Name": "Work and Wages",
 		"id": 2,
 		"Url": "https://raw.githubusercontent.com/R-B1999/MMR/master/WaW.json",
-		"icon": ""
+		"icon": "https://raw.githubusercontent.com/R-B1999/MMR/master/round_home_white_48.png"
 	},
 	{
 		"Name": "Pipes and Cisterns",
 		"id": 3,
 		"Url": "https://raw.githubusercontent.com/R-B1999/MMR/master/PaC.json",
-		"icon": ""
+		"icon": "https://raw.githubusercontent.com/R-B1999/MMR/master/res/drawable/round_home_white_48.png"
 	},
 	{
 		"Name": "Time Speed Distance",
