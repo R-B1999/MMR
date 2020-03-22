@@ -3,7 +3,7 @@
 		"Name": "Numbers System",
 		"id": 1,
 		"Url": "https://raw.githubusercontent.com/R-B1999/MMR/master/NumberSystem.json",
-		"icon": "https://github.com/R-B1999/MMR/blob/master/res/drawable/round_home_white_48.png"
+		"icon": ""
 	},
 	{
 		"Name": "Work and Wages",
@@ -15,7 +15,7 @@
 		"Name": "Pipes and Cisterns",
 		"id": 3,
 		"Url": "https://raw.githubusercontent.com/R-B1999/MMR/master/PaC.json",
-		"icon": "https://raw.githubusercontent.com/R-B1999/MMR/master/res/drawable/round_home_white_48.png"
+		"icon": ""
 	},
 	{
 		"Name": "Time Speed Distance",
