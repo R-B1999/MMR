@@ -1,0 +1,202 @@
+[
+	{
+		"QNo" : 1,
+		"Que" : "Samuel covers the distance from his home to his office at a speed of 25 km/hr and comes back at a speed of 4 km/hr. He completes the whole journey within 5 hours 48 minutes. Find out the distance from his home to office:",
+		"O1" : "20 km",
+		"O2" : "18 km",
+		"O3" : "15 km",
+		"O4" : "25 km",
+		"Ans" : "20 km",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 2,
+		"Que" : "If John walks at the speed of 5 km/h, he reaches his office 7 minutes late. However, if he walks at the speed of 6 km/h, he reaches his office 5 minutes early. How far is his office from his home?",
+		"O1" : "9",
+		"O2" : "8",
+		"O3" : "10",
+		"O4" : "6",
+		"Ans" : "6",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 3,
+		"Que" : "A policeman sees a thief at a distance of 100 meters and starts to chase him. The thief sees him and starts to run too. If the thief is running at the speed of 8 km/hr and the policeman is running at the speed of 10 km/hr, find out the distance covered by the thief before the policeman catches him.",
+		"O1" : "250 meters",
+		"O2" : "400 meters",
+		"O3" : "450 meters",
+		"O4" : "401 meters",
+		"Ans" : "400 meters",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 4,
+		"Que" : "Paul has to travel 24 km. After walking for 1 hour 40 minutes he sees that he has covered 5/7 of the distance left to cover. Find out Paul’s speed in meters per second.",
+		"O1" : "5/3 m/s",
+		"O2" : "7/5 m/s",
+		"O3" : "2/3 m/s",
+		"O4" : "8/5 m/s",
+		"Ans" : "5/3 m/s",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 5,
+		"Que" : "The ratio of the speed of two trains is 7:8. If the second train covers 400 km in 4 h, find out the speed of the first train.",
+		"O1" : "69.4 km/h",
+		"O2" : "78.6 km/h",
+		"O3" : "87.5 km/h",
+		"O4" : "40.5 km/h",
+		"Ans" : "87.5 km/h",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 6,
+		"Que" : "Rajdhani Express halts for 3 minutes every time it covers a distance of 75 km. If the train runs at a speed of 100 km/h and the destination is 600 km away from the source, find out the time taken to reach the destination station from the source station.",
+		"O1" : "6 h 23 min",
+		"O2" : "6 h 22 min",
+		"O3" : "6 h 21 min",
+		"O4" : "6 h 24 min",
+		"Ans" : "6 h 21 min",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 7,
+		"Que" : "Max completes his journey at an average speed of 9 km/h. He covers the first 9 km at a speed of 6 km/h and he takes 1·5 hours to cover the remaining distance. Find out the speed at which he covered the remaining distance.",
+		"O1" : "11 km/h",
+		"O2" : "12 km/h",
+		"O3" : "13 km/h",
+		"O4" : "15 km/h",
+		"Ans" : "12 km/h",
+		"Solution":""
+	},
+	{
+		"QNo" : 8,
+		"Que" : "Peter and Beckon start to walk in the same direction together. If Peter's speed is 5 km/h and Beckon's speed is 6 km/h, find out the time duration after which they are 17 km apart.",
+		"O1" : "17",
+		"O2" : "15",
+		"O3" : "19",
+		"O4" : "20",
+		"Ans" : "17",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 9,
+		"Que" : "A car covers a distance of 450m in 90 secs. What is the speed in km/hr?",
+		"O1" : "20",
+		"O2" : "5",
+		"O3" : "10",
+		"O4" : "18",
+		"Ans" : "18",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 10,
+		"Que" : "A train covers a journey of 4 stations connected to form a square at speeds of 20, 40, 60 and 80 km/hr. What is the average speed of train for this journey?",
+		"O1" : "38.4",
+		"O2" : "100",
+		"O3" : "80.4",
+		"O4" : "160",
+		"Ans" : "38.4",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 11,
+		"Que" : "A car completes a journey in 10 hrs, the first half at 11 kmph and the second half at 14kmph. Find the total distance covered?",
+		"O1" : "120.5",
+		"O2" : "123.2",
+		"O3" : "130.4",
+		"O4" : "134.5",
+		"Ans" : "123.2",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 12,
+		"Que" : "The speed of a child while going to school is 2 kmph and returns to the village at a speed of 3 kmph. If he takes 5 hrs in all, what is the distance between the village and the school?",
+		"O1" : "4 Km",
+		"O2" : "6 Km",
+		"O3" : "8 Km",
+		"O4" : "10 Km",
+		"Ans" : "6 Km",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 13,
+		"Que" : "Walking 3/4th of his speed, a person is 10 sec late to his office. Find his usual time to cover the distance?",
+		"O1" : "40 sec",
+		"O2" : "25 sec",
+		"O3" : "45 sec",
+		"O4" : "30 sec",
+		"Ans" : "30 sec",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 14,
+		"Que" : "A boy takes 5 hours 45 min to walk from home to school come back by auto. He would have gained 2 hours by taking auto both ways. How much time would he take, to walk both ways?",
+		"O1" : "6 hrs 30 min",
+		"O2" : "7 hrs 45 min",
+		"O3" : "7 hrs 33 min",
+		"O4" : "6 hrs 50 min",
+		"Ans" : "7 hrs 45 min",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 15,
+		"Que" : "A train’s speed including stoppages, is 10 m/sec and 15 m/sec excluding stoppages. For how many seconds does the train stop per minute?",
+		"O1" : "10 sec",
+		"O2" : "15 sec",
+		"O3" : "20 sec",
+		"O4" : "8 sec",
+		"Ans" : "20 sec",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 16,
+		"Que" : "Ram and Shyam participate in a race of 200m. If Ram starts when Shyam has covered 25 meters, then Ram finishes the race 10 seconds before Shyam and if Ram starts when Shyam has covered 45 meters then both finish the race at the same time. How long does Ram take to run 200m?",
+		"O1" : "120",
+		"O2" : "77.5",
+		"O3" : "87.2",
+		"O4" : "100",
+		"Ans" : "77.5",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 17,
+		"Que" : "If Geeta can give a start of 100 m of distance or 20 s of time to her friend Meena in a race of 1000 meters. How much time Geeta will take to cover the 1000 meters?",
+		"O1" : "200 sec",
+		"O2" : "160 sec",
+		"O3" : "180 sec",
+		"O4" : "140 sec",
+		"Ans" : "180 sec",
+		"Solution":""
+	},
+	{
+		"QNo" : 18,
+		"Que" : "Sita and Radha participate in a race of 1000 m. If Sita starts, when Radha has covered 100 metres, then Sita finishes the race 20 seconds before Radha, and if Sita starts, when Radha has covered 125 metres then both finish the race at the same time. How long does Sita take to run the complete race?",
+		"O1" : "350",
+		"O2" : "700",
+		"O3" : "780",
+		"O4" : "900",
+		"Ans" : "700",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 19,
+		"Que" : "If Mohan can give a start of 50 m of distance or 10 s of time to Rohan in a race of 1000 meters. How much time Mohan will take to cover the 1000 meters?",
+		"O1" : "190 sec",
+		"O2" : "200 sec",
+		"O3" : "240 sec",
+		"O4" : "180 sec",
+		"Ans" : "190 sec",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 20,
+		"Que" : "Two cars with speed of 15 kmph and 30 kmph respectively are 100 km apart and face each other. The distance between them 5 minutes before crossing is",
+		"O1" : "2.75",
+		"O2" : "3.75",
+		"O3" : "4.75",
+		"O4" : "5.75",
+		"Ans" : "3.75",
+		"Solution" : ""
+	}
+]
