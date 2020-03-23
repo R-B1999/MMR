@@ -1,0 +1,162 @@
+[
+	{
+		"QNo" : 1,
+		"Que" : "John earns 33.33% more than Peter. By what percentage is Peter's earning less than that of John's?",
+		"O1" : "22 %",
+		"O2" : "25 %",
+		"O3" : "26 %",
+		"O4" : "23 %",
+		"Ans" : "25 %",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 2,
+		"Que" : "Mary's salary is reduced by 10%. By what percentage must her new salary be increased in order to gain her old salary?",
+		"O1" : "137⁄9 %",
+		"O2" : "194⁄9 %",
+		"O3" : "100⁄9 %",
+		"O4" : "110⁄9 %",
+		"Ans" : "100⁄9 %",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 3,
+		"Que" : "The price of sugar is decreased by 10%. As a consequence, monthly sales is increased by 30%. Find out the percentage increase in monthly revenue.",
+		"O1" : "17 %",
+		"O2" : "19 %",
+		"O3" : "18 %",
+		"O4" : "None of these",
+		"Ans" : "17 %",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 4,
+		"Que" : "Jack consumes 75% of his salary. Later his salary is increased by 20% and he increases his expenditures by 10%. Find the percentage increase in his savings.",
+		"O1" : "51%",
+		"O2" : "60%",
+		"O3" : "50%",
+		"O4" : "55%",
+		"Ans" : "50%",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 5,
+		"Que" : "Mary buys an item at Rs 25 in a sale and saves Rs 5. Find out the percentage of her savings.",
+		"O1" : "40/3 %",
+		"O2" : "55/3 %",
+		"O3" : "50/3 %",
+		"O4" : "None of these",
+		"Ans" : "50/3 %",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 6,
+		"Que" : "Barack spends Rs 6650 to buy some goods and gets a rebate of 6% on it. After this, he pays a sales tax of 10%. What is his total expenditure?",
+		"O1" : "Rs 6870.10",
+		"O2" : "Rs 6876.10",
+		"O3" : "Rs 6865.10",
+		"O4" : "Rs 6776.10",
+		"Ans" : "Rs 6876.10",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 7,
+		"Que" : "Felix spends 66.66% of his salary and saves Rs 1200 every month. Calculate his monthly expenditure in Rupees.",
+		"O1" : "Rs 2402",
+		"O2" : "Rs 2400",
+		"O3" : "Rs 2401",
+		"O4" : "Rs 2405",
+		"Ans" : "Rs 2400",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 8,
+		"Que" : "Jack and Robert appeared in an examination. Robert scored 9 marks less than Jack. Jack's score was 56% of the sum of their scores added together. Calculate their individual scores.",
+		"O1" : "22 and 33",
+		"O2" : "41 and 35",
+		"O3" : "40 and 35",
+		"O4" : "42 and 33",
+		"Ans" : "42 and 33",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 9,
+		"Que" : "Ram spends 20% of is salary on food, 15 % of remaining on cloths, and 400 on entertainment. If his salary is 10000, how much he spends on food?",
+		"O1" : "2000",
+		"O2" : "3000",
+		"O3" : "1500",
+		"O4" : "2500",
+		"Ans" : "2000",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 10,
+		"Que" : "Ram spends 20% of is salary on food, 15 % of remaining on cloths, and 400 on entertainment. If his salary is 10000, how much he spends on cloths?",
+		"O1" : "1100",
+		"O2" : "1200",
+		"O3" : "1500",
+		"O4" : "1000",
+		"Ans" : "1200",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 11,
+		"Que" : "Ram spends 20% of is salary on food, 15 % of remaining on cloths, and 400 on entertainment. If his salary is 10000, how much  salary he saves at the end of month?",
+		"O1" : "1400",
+		"O2" : "3600",
+		"O3" : "6400",
+		"O4" : "2000",
+		"Ans" : "6400",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 12,
+		"Que" : "5 years ago age of Ram was 50 % less than Shyam’s age. If the ratio of Shyam’s present age to Ram’s present age 4:3. What will be Ram’s age after 7.5 years?",
+		"O1" : "25 years",
+		"O2" : "18 years",
+		"O3" : "20 years",
+		"O4" : "15 years",
+		"Ans" : "15 years",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 13,
+		"Que" : "5 years ago the ratio of Shyam’s age to Ram’s age is 3:2. If Ram’s present age is 25% less than Shyam’s present age. What will be Ram’s age after 10 years?",
+		"O1" : "20 years",
+		"O2" : "15 years",
+		"O3" : "25 years",
+		"O4" : "10 years",
+		"Ans" : "25 years",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 14,
+		"Que" : "A product is sold at two consecutive discounts of 30% and subsequently 40%. If the product is sold for 1500, what is the marked price on product?",
+		"O1" : "3500",
+		"O2" : "3600",
+		"O3" : "3550",
+		"O4" : "3571",
+		"Ans" : "3571",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 15,
+		"Que" : "A product is sold at two consecutive discounts of 30% and subsequently 40%. If the marked price on the product is 1500, What is the selling price of the product?",
+		"O1" : "420",
+		"O2" : "360",
+		"O3" : "600",
+		"O4" : "630",
+		"Ans" : "630",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 16,
+		"Que" : "Sudheer’s family can use the water up to 10 days when the tank is full. If the water consumption of his family is increased by 25% per day, how many days will the water tank last?",
+		"O1" : "5",
+		"O2" : "6",
+		"O3" : "7",
+		"O4" : "8",
+		"Ans" : "8",
+		"Solution" : ""
+	}
+]

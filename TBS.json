@@ -1,0 +1,152 @@
+[
+	{
+		"QNo" : 1,
+		"Que" : "A boatman takes 3 hours 45 minutes to travel 15 km downstream and takes 2 hours 30 minutes to travel 5 km upstream of a river. What is the speed of the stream of the river in km/h?",
+		"O1" : "2 km/h",
+		"O2" : "1 km/h",
+		"O3" : "6 km/h",
+		"O4" : "4 km/h",
+		"Ans" : "1 km/h",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 2,
+		"Que" : "A speedboat runs 6 km upstream in a river and comes back to the starting point in 33 minutes. The stream of the river is running at 2 km/hr. What is the speed of speedboat in still water?",
+		"O1" : "25 km/h",
+		"O2" : "21 km/h",
+		"O3" : "26 km/h",
+		"O4" : "22 km/h",
+		"Ans" : "22 km/h",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 3,
+		"Que" : "A boat runs at the speed of 13 km/h in still water. If the speed of the stream is 4 km/h, how much time will it take to go 68 km downstream?",
+		"O1" : "5 h",
+		"O2" : "4 h",
+		"O3" : "6 h",
+		"O4" : "3 h",
+		"Ans" : "4 h",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 4,
+		"Que" : "Peter's speedboat run at a speed of 9 km/h in still water. He rows to a place at a distance of 105 km and comes back to the starting point. If the speed of stream is 1.5 km/h, find out the time taken by Peter.",
+		"O1" : "24 h",
+		"O2" : "21 h",
+		"O3" : "23 h",
+		"O4" : "22 h",
+		"Ans" : "24 h",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 5,
+		"Que" : "A motorboat crosses a certain distance in 1 hour and comes back in 1½ hours. If the stream is running at 3 km/h, find out the speed of motorboat in still water.",
+		"O1" : "10 km/h",
+		"O2" : "15 km/h",
+		"O3" : "12 km/h",
+		"O4" : "None of these",
+		"Ans" : "15 km/h",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 6,
+		"Que" : "A train crosses a pole in 20 sec. If the length of train is 500 meters, what is the speed of the train?",
+		"O1" : "27 m/s",
+		"O2" : "20 m/s",
+		"O3" : "25 m/s",
+		"O4" : "30 m/s",
+		"Ans" : "25 m/s",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 7,
+		"Que" : "A train crosses a pole in 10 sec. If the length of train is 100 meters, what is the speed of the train in Kmph?",
+		"O1" : "34",
+		"O2" : "36",
+		"O3" : "30",
+		"O4" : "32",
+		"Ans" : "36",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 8,
+		"Que" : "A train is running at a speed of 100Kmph. A car is running on road parallel to the train’s track at a speed of 20 Kmph in the same direction as of train. How much time will it take to cross the car if the length of the train is 100 meters?",
+		"O1" : "5 sec",
+		"O2" : "4 sec",
+		"O3" : "5.5 sec",
+		"O4" : "4.5 sec",
+		"Ans" : "4.5 sec",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 9,
+		"Que" : "A train is running at a speed of 100Kmph. A car is running on road parallel to the train’s track at a speed of 20 Kmph opposite to train. How much time will it take to cross the car if the length of the train is 100 meters?",
+		"O1" : "5 sec",
+		"O2" : "4 sec",
+		"O3" : "3 sec",
+		"O4" : "3.5 sec",
+		"Ans" : "3 sec",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 10,
+		"Que" : "What is the length of the platform, if a train running at a speed of 90 m/sec and length is 80 meters, crosses the platform in 2 sec?",
+		"O1" : "120 m",
+		"O2" : "150 m",
+		"O3" : "125 m",
+		"O4" : "100 m",
+		"Ans" : "100 m",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 11,
+		"Que" : "Length of the platform is 100 meters, if a train running at a speed of 90 m/sec, crosses the platform in 2 sec. What is the length of the train?",
+		"O1" : "100 m",
+		"O2" : "80 m",
+		"O3" : "120 m",
+		"O4" : "90 m",
+		"Ans" : "80 m",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 12,
+		"Que" : "In what time will a train running at a speed of 90 m/sec, of length 80 meters crosses a platform of length 100 meters?",
+		"O1" : "4 sec",
+		"O2" : "5 sec",
+		"O3" : "2.5 sec",
+		"O4" : "2 sec",
+		"Ans" : "2 sec",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 13,
+		"Que" : "Two trains T1 and T2 start from two stations A and B, at the same time with speed 60 meters/sec and 40 meters/sec respectively. Stations are 100 meters apart from each other. At what distance from station A will they meet?",
+		"O1" : "60 m",
+		"O2" : "40 m",
+		"O3" : "80 m",
+		"O4" : "70 m",
+		"Ans" : "60 m",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 14,
+		"Que" : "Two trains T1 and T2 start from two stations A and B, at the same time with speed 60 meters/sec and 40 meters/sec respectively. Stations are 100 meters apart from each other. At what time will they meet?",
+		"O1" : "2 sec",
+		"O2" : "2.5 sec",
+		"O3" : "1.5 sec",
+		"O4" : "1 sec",
+		"Ans" : "1 sec",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 15,
+		"Que" : "Two trains are running in the same direction on two parallel tracks at 40 m/sec and 60 m/sec. How much time will it take to cross the slower train by faster train if the length of slower train in 50 meter and that of faster train is 20 meter?  (Assume initially faster train was far behind the slower train).",
+		"O1" : "5 sec",
+		"O2" : "10 sec",
+		"O3" : "4 sec",
+		"O4" : "3.5 sec",
+		"Ans" : "3.5 sec",
+		"Solution" : ""
+	}
+]

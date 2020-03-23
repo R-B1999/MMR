@@ -1,0 +1,162 @@
+[
+	{
+		"QNo" : 1,
+		"Que" : "Present age of Vinod and Ashok are in ratio of 3:4 respectively. After 5 years, the ratio of their ages becomes 7:9 respectively. What is Ashok’s present age is ?",
+		"O1" : "40 years",
+		"O2" : "28 years",
+		"O3" : "32 years",
+		"O4" : "36 years",
+		"Ans" : "40 years",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 2,
+		"Que" : "At present, the ratio between ages of Ram and Shyam is 6:5 respectively. After 7 years, Shyam’s age will be 32 years. What is the present age of Ram?",
+		"O1" : "32",
+		"O2" : "40",
+		"O3" : "30",
+		"O4" : "36",
+		"Ans" : "30",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 3,
+		"Que" : "The present ages of A, B and C are in proportions 4:5:9. Nine years ago, sum of their ages was 45 years. Find their present ages in years",
+		"O1" : "15,20,35",
+		"O2" : "20,24,36",
+		"O3" : "20,25,45",
+		"O4" : "16,20,36",
+		"Ans" : "16,20,36",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 4,
+		"Que" : "Two numbers are in the ratio of 2:9. If their H. C. F. is 19, numbers are:",
+		"O1" : "6, 27",
+		"O2" : "8, 36",
+		"O3" : "38, 171",
+		"O4" : "20, 90",
+		"Ans" : "38 171",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 5,
+		"Que" : "In a box, there are 10p, 25p and 50p coins in the ratio 4:9:5 with the total sum of Rs 206. How many coins of each kind does the box have?",
+		"O1" : "200, 360, 160",
+		"O2" : "135, 250, 150",
+		"O3" : "90, 60, 110",
+		"O4" : "Cannot be determined",
+		"Ans" : "200, 360, 160",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 6,
+		"Que" : "Mark, Steve and Bill get their salaries in the ratio of 2:3:5. If their salaries are incremented by 15%, 10%, and 20% respectively, the new ratio of their salaries becomes:",
+		"O1" : "8:16:15",
+		"O2" : "23:33:60",
+		"O3" : "33:30:20",
+		"O4" : "21:25:32",
+		"Ans" : "23:33:60",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 7,
+		"Que" : "In a library, the ratio of the books on Computer, Physics and Mathematics is 5:7:8. If the collection of books is increased respectively by 40%, 50% and 75%, find out the new ratio:",
+		"O1" : "3:9:5",
+		"O2" : "7:5:3",
+		"O3" : "2:3:4",
+		"O4" : "2:5:4",
+		"Ans" : "2:3:4",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 8,
+		"Que" : "The ratio 5:3 represents 16 liters of a mixture containing milk and water. If 4 liters of water is added and 4 liters of milk is extracted from the mixture, then the ratio of the mixture will be:",
+		"O1" : "7:3",
+		"O2" : "5:6",
+		"O3" : "2:3",
+		"O4" : "None of these",
+		"Ans" : "None of these",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 9,
+		"Que" : "If the ages of Jacob, Max and Samuel are in the proportion 3:5:7 and the average of their ages is 25 years, then find the age of the youngest person.",
+		"O1" : "15 years",
+		"O2" : "10 years",
+		"O3" : "7 years",
+		"O4" : "18 years",
+		"Ans" : "15 years",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 10,
+		"Que" : "The ratio of the speed of two trains is 7:8. If the second train covers 400 km in 4 h, find out the speed of the first train.",
+		"O1" : "69.4 km/h",
+		"O2" : "78.6 km/h",
+		"O3" : "87.5 km/h",
+		"O4" : "40.5 km/h",
+		"Ans" : "87.5 km/h",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 11,
+		"Que" : "A certain amount of money is distributed between Alfred, Adam, Harry and Leo in the proportion of 5:2:4:3. Harry's share is Rs 1000 more than Leo's share. How much money does Adam get?",
+		"O1" : "Rs 800",
+		"O2" : "Rs 1000",
+		"O3" : "Rs 1050",
+		"O4" : "Rs 2000",
+		"Ans" : "Rs 2000",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 12,
+		"Que" : "If (x:y) = 2:1, then (x²-y²):(x²+y²) = __ ?",
+		"O1" : "1:2",
+		"O2" : "3:5",
+		"O3" : "2:1",
+		"O4" : "5:4",
+		"Ans" : "3:5",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 13,
+		"Que" : "Syrup and Water are mixed in 2:1 ratio to form 60 litres of a mixture. How much water needs to be added to make the ratio 1:2?",
+		"O1" : "60 litres",
+		"O2" : "85 litres",
+		"O3" : "55 litres",
+		"O4" : "Cannot be determined",
+		"Ans" : "60 litres",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 14,
+		"Que" : "Felix and Adam win Rs 1210 together. 4/15 of Felix's share is same as 2/5 of Adam's share. How much did Adam win?",
+		"O1" : "Rs 484",
+		"O2" : "Rs 330",
+		"O3" : "Rs 360",
+		"O4" : "Data inadequate",
+		"Ans" : "Rs 484",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 15,
+		"Que" : "In a party, 60% of the invited guests are male and 40% are female. If 80% of the invited guests attended the party and if all the invited female guests attended, what would be the ratio of males to females among the attendees in the party?",
+		"O1" : "2:3",
+		"O2" : "1:1",
+		"O3" : "3:2",
+		"O4" : "2:1",
+		"Ans" : "1:1",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 16,
+		"Que" : "In appreciative of social improvement completed in a town, a wealthy philanthropist decided to give gift of Rs. 750 to each male senior citizen and Rs. 1000 for female senior citizens. There are total 300 senior citizens and th 8/9th of total men and 2/3rd of total women claimed the gift. What is amount of money philanthropist paid?",
+		"O1" : "15000",
+		"O2" : "200000",
+		"O3" : "115000",
+		"O4" : "151000",
+		"Ans" : "200000",
+		"Solution" : ""
+	}
+]
