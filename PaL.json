@@ -1,0 +1,172 @@
+[
+	{
+		"QNo" : 1,
+		"Que" : "Peter buys a bag at the price of Rs 27.50. After some days, he sells it at the price of Rs 28.90. What is the percentage of his gain?",
+		"O1" : "7.19%",
+		"O2" : "5.09%",
+		"O3" : "5.55%",
+		"O4" : "6.09%",
+		"Ans" : "5.09%",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 2,
+		"Que" : "Sam purchases a book at Rs 490 and sells it at Rs 465.50. What is the percentage of his loss?",
+		"O1" : "6%",
+		"O2" : "10%",
+		"O3" : "5%",
+		"O4" : "4%",
+		"Ans" : "5%",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 3,
+		"Que" : "A bookseller gains a profit of 10% after selling a book at the price of Rs 27.50. If it is sold at the price of Rs 25.75, find out the percentage of loss or profit on the book.",
+		"O1" : "Profit 3%",
+		"O2" : "Loss 4%",
+		"O3" : "Profit 5%",
+		"O4" : "Loss 2%",
+		"Ans" : "Profit 3%",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 4,
+		"Que" : "A shopkeeper sells an article at the price of Rs 1140 and incurs a loss of 5% on it. For him to gain a profit of 5% on the same article, at what price should the article be sold?",
+		"O1" : "Rs 1200",
+		"O2" : "Rs 1250",
+		"O3" : "Rs 1260",
+		"O4" : "Rs 1245",
+		"Ans" : "Rs 1260",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 5,
+		"Que" : "After selling 33 meters of a cloth, a shopkeeper makes a gain equal to the selling price of 11 meters of the cloth. What is the percentage of his gain?",
+		"O1" : "50%",
+		"O2" : "45%",
+		"O3" : "60%",
+		"O4" : "55%",
+		"Ans" : "50%",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 6,
+		"Que" : "A product is sold at two consecutive discounts of 30% and subsequently 40%. If the product is sold for 1500, what is the marked price on product?",
+		"O1" : "3500",
+		"O2" : "3600",
+		"O3" : "3550",
+		"O4" : "3571",
+		"Ans" : "3571",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 7,
+		"Que" : "A product is sold at two consecutive discounts of 30% and subsequently 40%. If the marked price on the product is 1500, What is the selling price of the product?",
+		"O1" : "420",
+		"O2" : "360",
+		"O3" : "600",
+		"O4" : "630",
+		"Ans" : "630",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 8,
+		"Que" : "For a shirt cost price is Rs. 400. Shopkeeper prints a tag on it with Markup% = 20% to earn a profit of 7.5%. What is markup?",
+		"O1" : "60",
+		"O2" : "40",
+		"O3" : "80",
+		"O4" : "100",
+		"Ans" : "80",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 9,
+		"Que" : "For a shirt cost price = 400Rs. Shopkeeper prints a tag on it with Markup% = 20% to earn a profit of 7.5%. What is marked price",
+		"O1" : "480",
+		"O2" : "500",
+		"O3" : "520",
+		"O4" : "600",
+		"Ans" : "480",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 10,
+		"Que" : "For a shirt cost price = 400Rs. Shopkeeper prints a tag on it with Markup% = 20% to earn a profit of 7.5%. How much profit shopkeeper earns?",
+		"O1" : "Rs 40",
+		"O2" : "Rs 50",
+		"O3" : "Rs 60",
+		"O4" : "Rs 30",
+		"Ans" : "Rs 30",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 11,
+		"Que" : "Cost Price of a shirt is Rs 400. Shopkeeper prints a tag on it with Markup% = 20% to earn a profit of 7.5%. What is selling price of the shirt?",
+		"O1" : "450",
+		"O2" : "430",
+		"O3" : "420",
+		"O4" : "460",
+		"Ans" : "430",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 12,
+		"Que" : "Cost Price of a shirt is Rs 400. Shopkeeper prints a tag on it with Markup% = 20% to earn a profit of 7.5%. What is discount amount?",
+		"O1" : "Rs 80",
+		"O2" : "Rs 100",
+		"O3" : "Rs 50",
+		"O4" : "Rs 60",
+		"Ans" : "Rs 50",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 13,
+		"Que" : "Cost Price of a shirt is Rs 400. Shopkeeper prints a tag on it with Markup% = 20% to earn a profit of 7.5%. How discount % shopkeeper offered on the shirt?",
+		"O1" : "10.60 %",
+		"O2" : "10.20 %",
+		"O3" : "10.42 %",
+		"O4" : "10.48 %",
+		"Ans" : "10.42 %",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 14,
+		"Que" : "If cost price of 15 pen is equal to Selling price of 20 pens, what is the gain or loss percent?",
+		"O1" : "25% Loss",
+		"O2" : "25% Profit",
+		"O3" : "30% Loss",
+		"O4" : "30% Profit",
+		"Ans" : "25% Loss",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 15,
+		"Que" : "By selling 8 bananas a fruit seller gains the selling price of 1 banana. Calculate his profit percent.",
+		"O1" : "14.9%",
+		"O2" : "16.3%",
+		"O3" : "15.4%",
+		"O4" : "14.28%",
+		"Ans" : "14.28%",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 16,
+		"Que" : "A fruit seller sells all his bananas at the cost price but gives 15% less bananas as he should give. Find his profit percentage?",
+		"O1" : "17.64%",
+		"O2" : "15.64%",
+		"O3" : "18.60%",
+		"O4" : "14.45%",
+		"Ans" : "17.64%",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 17,
+		"Que" : "A person bought 3 Oranges for 2 Rs and sold 2 Oranges for 3 Rs. Calculate his Profit percentage?",
+		"O1" : "100%",
+		"O2" : "150%",
+		"O3" : "120%",
+		"O4" : "125%",
+		"Ans" : "125%",
+		"Solution" : ""
+	}
+]
