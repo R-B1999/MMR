@@ -48,20 +48,14 @@
 		"icon": ""
 	},
 	{
-		"Name": "Average",
-		"id": 9,
-		"Url": "https://raw.githubusercontent.com/R-B1999/MMR/master/Avg.json",
-		"icon": ""
-	},
-	{
 		"Name": "Age",
-		"id": 10,
+		"id": 9,
 		"Url": "https://raw.githubusercontent.com/R-B1999/MMR/master/Age.json",
 		"icon": ""
 	},
 	{
 		"Name": "Clocks",
-		"id": 11,
+		"id": 10,
 		"Url": "https://raw.githubusercontent.com/R-B1999/MMR/master/Clock.json",
 		"icon": ""
 	}
