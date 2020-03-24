@@ -1,0 +1,232 @@
+[
+	{
+		"QNo" : 1,
+		"Que" : "Sum of 4 childeren born at interval of 4 years is 36. What is the age of youngest child?",
+		"O1" : "2 years",
+		"O2" : "3 years",
+		"O3" : "4 years",
+		"O4" : "5 years",
+		"Ans" : "3 years",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 2,
+		"Que" : "A is 5 years older than B who is thrice as old as C. If the total of ages of A, B and C is 40, then how old is C ?",
+		"O1" : "6",
+		"O2" : "7",
+		"O3" : "5",
+		"O4" : "8",
+		"Ans" : "5",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 3,
+		"Que" : "Present age of Vinod and Ashok are in ratio of 3:4 respectively. After 5 years, the ratio of their ages becomes 7:9 respectively. What is Ashok’s present age is ?",
+		"O1" : "40 years",
+		"O2" : "28 years",
+		"O3" : "32 years",
+		"O4" : "36 years",
+		"Ans" : "40 years",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 4,
+		"Que" : "At present father’s age is thrice of son’s age. After 15 years father’s age will be double of son’s age. What is son’s present age?",
+		"O1" : "16 years",
+		"O2" : "15 years",
+		"O3" : "12 years",
+		"O4" : "10 years",
+		"Ans" : "15 years",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 5,
+		"Que" : "At present, the ratio between ages of Ram and Shyam is 6:5 respectively. After 7 years, Shyam’s age will be 32 years. What is the present age of Ram?",
+		"O1" : "32",
+		"O2" : "40",
+		"O3" : "30",
+		"O4" : "36",
+		"Ans" : "30",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 6,
+		"Que" : "The present ages of A, B and C are in proportions 4:5:9. Nine years ago, sum of their ages was 45 years. Find their present ages in years",
+		"O1" : "15,20,35",
+		"O2" : "20,24,36",
+		"O3" : "20,25,45",
+		"O4" : "16,20,36",
+		"Ans" : "16,20,36",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 7,
+		"Que" : "A person’s present age is one third of the age of his mother. After 12 years, his age will be one half of the age of his mother. What is present age of his mother?",
+		"O1" : "30",
+		"O2" : "34",
+		"O3" : "38",
+		"O4" : "36",
+		"Ans" : "36",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 8,
+		"Que" : "A is as older than B as he is younger than C.If the sum of ages of B and C is 68 years. What is the present age of A?",
+		"O1" : "24 years",
+		"O2" : "34 years",
+		"O3" : "28 years",
+		"O4" : "32 years",
+		"Ans" : "34 years",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 9,
+		"Que" : "Cooper's present age is 3 years more than thrice Max's present age. After 3 years, Cooper's age will 10 years more than twice Max's age. What is Cooper's present age?",
+		"O1" : "33 years",
+		"O2" : "34 years",
+		"O3" : "38 years",
+		"O4" : "32 years",
+		"Ans" : "33 years",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 10,
+		"Que" : "The age of a father was 4 times his son’s age 8 years back. After 8 years, the father will be twice as old as his son. Find out the present ages of father and son.",
+		"O1" : "16 and 40 years",
+		"O2" : "14 and 45 years",
+		"O3" : "10 and 42 years",
+		"O4" : "13 and 41 years",
+		"Ans" : "16 and 40 years",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 11,
+		"Que" : "6:7 is the ratio of Michael's and Rosan‘s ages one year back. The ratio will become 7:8 in four years. Calculate the present age of Rosan.",
+		"O1" : "35 years",
+		"O2" : "32 years",
+		"O3" : "36 years",
+		"O4" : "31 years",
+		"Ans" : "36 years",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 12,
+		"Que" : "5 years ago age of Ram was 50 % less than Shyam’s age. If the ratio of Shyam’s present age to Ram’s present age 4:3. What will be Ram’s age after 7.5 years?",
+		"O1" : "25 years",
+		"O2" : "20 years",
+		"O3" : "18 years",
+		"O4" : "15 years",
+		"Ans" : "15 years",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 13,
+		"Que" : "5 years ago the ratio of Shyam’s age to Ram’s age is 3:2. If Ram’s present age is 25% less than Shyam’s present age. What will be Ram’s age after 10 years?",
+		"O1" : "20 years",
+		"O2" : "15 years",
+		"O3" : "25 years",
+		"O4" : "14 years",
+		"Ans" : "25 years",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 14,
+		"Que" : "Meena will be 5 times his age 5 years back, after 15 years. What is the present age of Meena?",
+		"O1" : "10 years",
+		"O2" : "15 years",
+		"O3" : "12 years",
+		"O4" : "16 years",
+		"Ans" : "10 years",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 15,
+		"Que" : "A boy is older than girl by 7 years. If the ratio of ages of boy:girl is 9:7, what is the age of boy?",
+		"O1" : "30 years",
+		"O2" : "20 years",
+		"O3" : "31.5 years",
+		"O4" : "25.5 years",
+		"Ans" : "31.5 years",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 16,
+		"Que" : "The present ages of Ram and Shyam are in the ratio 6:7. If Shyam is 4 years older than Ram, after 4 years what will be the ratio of their ages?",
+		"O1" : "5:8",
+		"O2" : "4:8",
+		"O3" : "7:8",
+		"O4" : "8:7",
+		"Ans" : "7:8",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 17,
+		"Que" : "If difference of ages of Ram and Shyam is 16 years. If 6 year ago, the Ram’s age is 3 times as old the Shyam, What are Ram and Shyam's respective present ages?",
+		"O1" : "17, 30",
+		"O2" : "30, 14",
+		"O3" : "15, 32",
+		"O4" : "14, 30",
+		"Ans" : "14, 30",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 18,
+		"Que" : "The sum of the ages of a mother and daughter is 45 years. 5 years ago, the product of their ages was 30 times the daughter's age at that time. What is the present age of mother?",
+		"O1" : "12",
+		"O2" : "7",
+		"O3" : "35",
+		"O4" : "10",
+		"Ans" : "35",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 19,
+		"Que" : "The sum of the ages of a mother and daughter is 45 years. 5 years ago, the product of their ages was 30 times the daughter's age at that time. What is the present age of daughter?",
+		"O1" : "10",
+		"O2" : "30",
+		"O3" : "32",
+		"O4" : "37",
+		"Ans" : "10",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 20,
+		"Que" : "Ram age was half of Shaym’s age, 10 years ago. If the ratio of their present ages is 3:5, what is the sum of their ages at present?",
+		"O1" : "30",
+		"O2" : "50",
+		"O3" : "70",
+		"O4" : "80",
+		"Ans" : "80",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 21,
+		"Que" : "The Sum of ages of Seeta and Geeta is 12 years less than the sum of ages of Geeta and Ina. By how many years Ina is older than Seeta?",
+		"O1" : "15",
+		"O2" : "12",
+		"O3" : "10",
+		"O4" : "18",
+		"Ans" : "12",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 22,
+		"Que" : "The ages of A and B differ by 16 years. 6 years ago, the elder one was 3 times as old as the younger one. What is present ages of the elder person?",
+		"O1" : "35",
+		"O2" : "20",
+		"O3" : "25",
+		"O4" : "30",
+		"Ans" : "30",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 23,
+		"Que" : "Ram and Shyam’s ages are in the ratio between 4:3. After 6 Years age of Ram will be 26 years. What is present age of Shyam?",
+		"O1" : "20",
+		"O2" : "16",
+		"O3" : "15",
+		"O4" : "12",
+		"Ans" : "15",
+		"Solution" : ""
+	}
+]

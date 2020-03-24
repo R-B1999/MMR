@@ -1,0 +1,172 @@
+[
+	{
+		"QNo" : 1,
+		"Que" : "In a clock, the time is 3.25.What is the angle between the hour hand and the minute hand of the clock:",
+		"O1" : "95/2 degrees",
+		"O2" : "90/3 degrees",
+		"O3" : "94/3 degrees",
+		"O4" : "95/3 degrees",
+		"Ans" : "95/2 degrees",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 2,
+		"Que" : "A clock gains uniformly 5 min slow at 8 o’clock in the morning on Sunday and 5 min 48 sec fast at 8 pm on following Sunday. The correct time and day are:",
+		"O1" : "21 min past 7 pm and Wednesday",
+		"O2" : "20 min past 7 pm and Thursday",
+		"O3" : "21 min past 7 pm and Thursday",
+		"O4" : "20 min past 7 pm and Wednesday",
+		"Ans" : "20 min past 7 pm and Wednesday",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 3,
+		"Que" : "Sam sets alarm at 5 am. But the clock loses 16 minutes in 24 hours. Effectively, the clock indicates 10:00 pm on the 4th day. Find out the original time of the clock:",
+		"O1" : "9 pm",
+		"O2" : "10 pm",
+		"O3" : "11 pm",
+		"O4" : "8 pm",
+		"Ans" : "11 pm",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 4,
+		"Que" : "The time of a clock is 8 am. Suddenly the clock gains 10 minutes in 24 hours. Find out the original time if the time of the clock is 1 pm on the following day:",
+		"O1" : "48 minutes past 12",
+		"O2" : "47 minutes past 10",
+		"O3" : "48 minutes past 11",
+		"O4" : "48 minutes past 11",
+		"Ans" : "48 minutes past 12",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 5,
+		"Que" : "A time of a clock is set 3.40. Find out the angle that is formed by both hour hand and minute hand:",
+		"O1" : "120 degrees",
+		"O2" : "135 degrees",
+		"O3" : "140 degrees",
+		"O4" : "130 degrees",
+		"Ans" : "130 degrees",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 6,
+		"Que" : "A clock shows 8:00 AM. When it is 2:00 PM, by what degree the hour hand rotates?",
+		"O1" : "145º",
+		"O2" : "160º",
+		"O3" : "180º",
+		"O4" : "175º",
+		"Ans" : "180º",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 7,
+		"Que" : "A clock shows 10:00 AM. When it is 4:00 PM, by what degree the hour hand rotates?",
+		"O1" : "140º",
+		"O2" : "152º",
+		"O3" : "175º",
+		"O4" : "180º",
+		"Ans" : "180º",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 8,
+		"Que" : "A clock shows 10:00 AM. When it is 10:00 PM, by what degree the hour hand rotates?",
+		"O1" : "180",
+		"O2" : "175",
+		"O3" : "240",
+		"O4" : "360",
+		"Ans" : "360",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 9,
+		"Que" : "A clock shows 10:00 AM. What time it will be showing, if hrs hand rotates for 180 degrees?",
+		"O1" : "1:00 PM",
+		"O2" : "6:00 PM",
+		"O3" : "4:00 PM",
+		"O4" : "10:00 PM",
+		"Ans" : "4:00 PM",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 10,
+		"Que" : "A clock shows 06:00 AM. What time it will be showing, if hrs hand rotates for 360 degrees?",
+		"O1" : "4:00 AM of next day",
+		"O2" : "06:00 PM",
+		"O3" : "04:00 PM",
+		"O4" : "10:00 PM",
+		"Ans" : "06:00 PM",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 11,
+		"Que" : "A clock shows 08:00 AM. What time it will be showing, if hrs hand rotates for 540 degrees?",
+		"O1" : "2:00 AM of next day",
+		"O2" : "4:00 PM",
+		"O3" : "4:35 PM",
+		"O4" : "01:00 AM of next day",
+		"Ans" : "2:00 AM of next day",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 12,
+		"Que" : "The reflex angle between the hands of a clock at 09.25 is:",
+		"O1" : "200 degrees",
+		"O2" : "220.7 degrees",
+		"O3" : "182 degrees",
+		"O4" : "227.5 degrees",
+		"Ans" : "227.5 degrees",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 13,
+		"Que" : "A clock is started at 12:00 AM. The hrs hand rotates by how many degrees by 10 minutes past 5?",
+		"O1" : "240",
+		"O2" : "175",
+		"O3" : "155",
+		"O4" : "180",
+		"Ans" : "155",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 14,
+		"Que" : "A faulty clock gains 5 seconds in every 3 minutes. Ram set it right at 8:00 AM. What is the true time when the clock indicates quarter past 5 o’clock of afternoon?",
+		"O1" : "4:30 PM",
+		"O2" : "7:00 PM",
+		"O3" : "5:00 PM",
+		"O4" : "3:00 PM",
+		"Ans" : "5:00 PM",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 15,
+		"Que" : "At what time will the hrs hand and minute hand will be pointing just opposite to each other between 7:00 AM and 8:00 AM?",
+		"O1" : "60/12 minutes past 7:00 AM",
+		"O2" : "40/11 minutes past 7:00 AM",
+		"O3" : "60/11 minutes past 8:00 AM",
+		"O4" : "60/11 minutes past 7:00 AM",
+		"Ans" : "60/11 minutes past 7:00 AM",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 16,
+		"Que" : "At what time between 6 am and 7 am will the minute hand and the hour hand of a clock make an angle closest to 60°?",
+		"O1" : "6:22 am",
+		"O2" : "6:27 am",
+		"O3" : "6:38 am",
+		"O4" : "6:45 am",
+		"Ans" : "6:22 am",
+		"Solution" : ""
+	},
+	{
+		"QNo" : 17,
+		"Que" : "If the time is now 4 O’clock, what will be the time after 101 hours from now ?",
+		"O1" : "9 O’clock",
+		"O2" : "8 O’clock",
+		"O3" : "5 O’clock",
+		"O4" : "4 O’clock",
+		"Ans" : "9 O’clock",
+		"Solution" : ""
+	}
+]
